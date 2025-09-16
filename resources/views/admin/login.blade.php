@@ -205,7 +205,7 @@
         </div>
         <!-- Footer Copyright -->
         <div class="bg-gray-50 px-8 py-4 text-center">
-            <p class="text-xs text-gray-500">© 2023 E-Voting IPM. Hak Cipta Dilindungi. <span
+            <p class="text-xs text-gray-500">© 2025 E-Voting IPM. Hak Cipta Dilindungi. <span
                     class="font-semibold">Akses Admin</span></p>
         </div>
     </div>

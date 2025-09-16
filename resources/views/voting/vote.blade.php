@@ -186,7 +186,7 @@
         </div>
         <!-- Footer Info -->
         <div class="mt-12 text-center text-gray-500 text-sm">
-            <p>© 2023 E-Voting IPM. Hak Cipta Dilindungi.</p>
+            <p>© 2025 E-Voting IPM. Hak Cipta Dilindungi.</p>
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
